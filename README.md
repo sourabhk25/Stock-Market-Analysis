@@ -2,7 +2,6 @@
 
 Welcome to Stock Market Analysis Project! This project focuses on analyzing and forecasting the stock prices of four major companies: Amazon, Google, Microsoft, and IBM. It's an exploration of historical financial data, predictive modeling, and data-driven decision support.
 
-![Stock Market](image_url_here)
 
 ## Table of Contents
 - [Introduction](#introduction)
